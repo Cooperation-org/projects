@@ -2,6 +2,25 @@
 
 How we work together.
 
+## Core Principle: Map, Not Territory
+
+The repo holds the **map**, not the territory. Projects have resources that live in external systems:
+
+- **chat** - Slack, Discord, Telegram...
+- **tasks** - GitHub Issues, Taiga, Linear...
+- **code** - GitHub repos (often multiple)
+- **payments/milestones** - Taiga, Notion, spreadsheets...
+- **deployments** - demo, staging, production URLs
+- **docs** - Google Drive, Notion, or this repo
+
+Each project's MAIN.md points to where these live. The actual state (open tasks, recent messages, deploy status) lives in those systems. This repo holds:
+
+- Goals, vision, intent (the "why")
+- The map of where everything is (the "where")
+- Context that helps humans and AI navigate (the "how")
+
+Don't duplicate data that lives elsewhere. Point to it.
+
 ## Quick Links
 
 - [ROLES.md](ROLES.md) - Team roles and responsibilities
