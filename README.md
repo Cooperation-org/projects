@@ -5,24 +5,24 @@
 ## Active Projects
 
 ### [Current](projects/Current/)
-＄ [accentrics](projects/Current/accentrics/MAIN.md) - AI business automation for home health care
-🧩 [amebo](projects/Current/amebo/MAIN.md) - AI-powered workspace intelligence (Slack Q&A)
-＄ [az-sunshine](projects/Current/az-sunshine/MAIN.md) - Arizona political transparency tool
-🌱 [civicsky](projects/Current/civicsky/MAIN.md) - Ghost CMS to Bluesky bridge with civic actions
-🙋 [onboarding](projects/Current/onboarding/MAIN.md) - Intern onboarding program
-＄ [skills-aware](projects/Current/skills-aware/MAIN.md) - Open Badges v3 endorsement system
-＄ [streetwell](projects/Current/streetwell/MAIN.md) - Financial management for construction/property
+- ＄ [accentrics](projects/Current/accentrics/MAIN.md) - AI business automation for home health care
+- 🧩 [amebo](projects/Current/amebo/MAIN.md) - AI-powered workspace intelligence (Slack Q&A)
+- ＄ [az-sunshine](projects/Current/az-sunshine/MAIN.md) - Arizona political transparency tool
+- 🌱 [civicsky](projects/Current/civicsky/MAIN.md) - Ghost CMS to Bluesky bridge with civic actions
+- 🙋 [onboarding](projects/Current/onboarding/MAIN.md) - Intern onboarding program
+- ＄ [skills-aware](projects/Current/skills-aware/MAIN.md) - Open Badges v3 endorsement system
+- ＄ [streetwell](projects/Current/streetwell/MAIN.md) - Financial management for construction/property
 
 ### [Nebula](projects/Nebula/)
-🍕 [toolkit](projects/Nebula/toolkit/initial-thoughts.md)
+- 🍕 [toolkit](projects/Nebula/toolkit/initial-thoughts.md)
 
 ---
 
 ## Quick Links
 
-👷 [ROLES.md](ROLES.md) - Team roles and responsibilities
-🚂 [How to Jump on a Moving Project](https://www.whatscookin.us/how-to-jump-on-a-moving-project/)
-🌳 [Playing on an Organic Team](https://www.whatscookin.us/playing-on-an-organic-team/)
+- 👷 [ROLES.md](ROLES.md) - Team roles and responsibilities
+- 🚂 [How to Jump on a Moving Project](https://www.whatscookin.us/how-to-jump-on-a-moving-project/)
+- 🌳 [Playing on an Organic Team](https://www.whatscookin.us/playing-on-an-organic-team/)
 
 ## Core Principle: Map, Not Territory
 
