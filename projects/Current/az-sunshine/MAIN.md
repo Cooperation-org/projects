@@ -15,7 +15,7 @@ Transparency Project: Arizona Sunshine aims to improve public transparency by ag
 | DevOps | |
 | Demo | [167.172.30.134](http://167.172.30.134/) |
 | Drive Folder | [Drive](https://drive.google.com/drive/folders/1UgxBFkkeB7T6_G9JAY7MgzDC2RpL9LfZ) |
-| Client | |
+| Client | Ben Armentrout |
 | Start & End Dates | |
 | Timeline, Budget & Contacts | |
 | Calendar | |

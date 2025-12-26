@@ -9,10 +9,12 @@
 - 🧩 [amebo](projects/Current/amebo/MAIN.md) - AI-powered workspace intelligence (Slack Q&A)
 - ＄ [az-sunshine](projects/Current/az-sunshine/MAIN.md) - Arizona political transparency tool
 - 🌱 [civicsky](projects/Current/civicsky/MAIN.md) - Ghost CMS to Bluesky bridge with civic actions
+- ＄ [gooddollar](projects/Current/gooddollar/MAIN.md) - GoodBuilders apps (Pesia's Kitchen, Global Classrooms)
 - ⭐ [linked-trust](projects/Current/linked-trust/MAIN.md) - Decentralized trust/claims platform (flagship)
 - 🙋 [onboarding](projects/Current/onboarding/MAIN.md) - Intern onboarding program
 - ＄ [skills-aware](projects/Current/skills-aware/MAIN.md) - Open Badges v3 endorsement system
 - ＄ [streetwell](projects/Current/streetwell/MAIN.md) - Financial management for construction/property
+- ＄ [tru-net](projects/Current/tru-net/MAIN.md) - Tru.net
 
 #### Ecosystem
 - 🧩 [certify](projects/Current/certify/MAIN.md) - Volunteer recognition badge platform

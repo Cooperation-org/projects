@@ -14,7 +14,7 @@ Brief human readable summary - what is this about?
 | Repo(s) | [github or gitlab repos] |
 | DevOps | [link to server and vault keys] |
 | Drive Folder | [under active projects for current year] |
-| Client | [name] |
+| Client | [name, emails, phone] |
 | Start & End Dates | [dates] |
 | Timeline, Budget & Contacts | [spreadsheet] |
 | Use cases / Design docs | |
