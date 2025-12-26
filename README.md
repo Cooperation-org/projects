@@ -6,7 +6,7 @@
 
 ### [Current](projects/Current/)
 - ＄ [accentrics](projects/Current/accentrics/MAIN.md) - AI business automation for home health care
-- 🧩 [amebo](projects/Current/amebo/MAIN.md) - AI-powered workspace intelligence (Slack Q&A)
+- 🧠 [amebo](projects/Current/amebo/MAIN.md) - AI-powered workspace intelligence (Slack Q&A)
 - ＄ [az-sunshine](projects/Current/az-sunshine/MAIN.md) - Arizona political transparency tool
 - 🌱 [civicsky](projects/Current/civicsky/MAIN.md) - Ghost CMS to Bluesky bridge with civic actions
 - ＄ [gooddollar](projects/Current/gooddollar/MAIN.md) - GoodBuilders apps (Pesia's Kitchen, Global Classrooms)
