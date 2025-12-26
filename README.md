@@ -39,6 +39,9 @@
 ## Quick Links
 
 - 👷 [ROLES.md](ROLES.md) - Team roles and responsibilities
+- 📣 [Marketing](team/marketing.md) - Social handles, brand assets
+- 🔐 [DevOps](team/devops.md) - Vault, AWS, DO, infrastructure
+- 💼 [BizDev](team/bizdev.md) - Leads, proposals, partnerships
 - 🚂 [How to Jump on a Moving Project](https://www.whatscookin.us/how-to-jump-on-a-moving-project/)
 - 🌳 [Playing on an Organic Team](https://www.whatscookin.us/playing-on-an-organic-team/)
 
