@@ -17,10 +17,17 @@
 #### Ecosystem
 - 🧩 [certify](projects/Current/certify/MAIN.md) - Volunteer recognition badge platform
 - 🧩 [linked-claims-extractor](projects/Current/linked-claims-extractor/MAIN.md) - AI claim extraction from PDFs/text
-- 🧩 [talent](projects/Current/talent/MAIN.md) - Professional credential verification
+- 🧩 [linkedcreds](projects/Current/linkedcreds/MAIN.md) - Resume/credential authoring with verifiable claims
+- ⏸️ [talent](projects/Current/talent/MAIN.md) - Professional credential verification
 
 ### [Nebula](projects/Nebula/)
 - 🍕 [toolkit](projects/Nebula/toolkit/initial-thoughts.md)
+
+### Past Projects
+*(🏆 = can show to clients and/or build on)*
+
+- 🏆 anoncreds - Contributions to [ACA-Py](https://github.com/hyperledger/aries-cloudagent-python)
+- 🏆 [allskillscount](https://allskillscount.org) - Skills recognition platform
 
 ---
 
