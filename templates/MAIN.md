@@ -17,7 +17,6 @@ Brief human readable summary - what is this about?
 | Client | [name] |
 | Start & End Dates | [dates] |
 | Timeline, Budget & Contacts | [spreadsheet] |
-| Calendar | [add all meetings to shared calendar] |
 | Use cases / Design docs | |
 | Marketing Sharables | [link or folder with materials] |
 

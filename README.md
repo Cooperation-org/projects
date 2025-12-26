@@ -1,6 +1,6 @@
 # What's Cookin' / LinkedTrust - Team Playbook
 
-⚙️ [Project Template](templates/MAIN.md) - Copy when starting new project
+⚙️ [Project Template](templates/MAIN.md) - Copy when starting new project | 📅 [Team Calendar](https://calendar.google.com/calendar/u/0?cid=NGIxMDQ4NTFiZTQ5YWVlYjM2YzNiMDNlMTVjM2I5YTdmNjc4NTE1ZTg4NDMwMWM5NDk2OWZlY2MwNjgyNGY3N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ## Active Projects
 
@@ -9,9 +9,15 @@
 - 🧩 [amebo](projects/Current/amebo/MAIN.md) - AI-powered workspace intelligence (Slack Q&A)
 - ＄ [az-sunshine](projects/Current/az-sunshine/MAIN.md) - Arizona political transparency tool
 - 🌱 [civicsky](projects/Current/civicsky/MAIN.md) - Ghost CMS to Bluesky bridge with civic actions
+- ⭐ [linked-trust](projects/Current/linked-trust/MAIN.md) - Decentralized trust/claims platform (flagship)
 - 🙋 [onboarding](projects/Current/onboarding/MAIN.md) - Intern onboarding program
 - ＄ [skills-aware](projects/Current/skills-aware/MAIN.md) - Open Badges v3 endorsement system
 - ＄ [streetwell](projects/Current/streetwell/MAIN.md) - Financial management for construction/property
+
+#### Ecosystem
+- 🧩 [certify](projects/Current/certify/MAIN.md) - Volunteer recognition badge platform
+- 🧩 [linked-claims-extractor](projects/Current/linked-claims-extractor/MAIN.md) - AI claim extraction from PDFs/text
+- 🧩 [talent](projects/Current/talent/MAIN.md) - Professional credential verification
 
 ### [Nebula](projects/Nebula/)
 - 🍕 [toolkit](projects/Nebula/toolkit/initial-thoughts.md)
