@@ -1,6 +1,8 @@
-# Coordination Framework Proposal
+# Amebo: Coordination Framework Proposal
 
-Expand slack-helper into a coordination hub that reads from multiple sources of truth and acts via Slack.
+**Vision:** An always-available helpful teammate that deeply understands our projects and goals.
+
+Expand slack-helper into a coordination helper that reads from multiple sources of truth and acts via Slack.
 
 ## Approach
 
@@ -46,48 +48,16 @@ Hub has no special authority. It's one actor among many - people, Claude Code, C
 
 If people prefer other tools, that's fine. Hub is optional and additive.
 
-## How projects/ repo configures hub
+## How projects/ repo configures amebo
 
-Option A: **Structured YAML frontmatter** (parseable, less error-prone)
+Each project has a MAIN.md that includes where things live (Slack channel, Taiga board, GitHub repo). Amebo parses this.
 
-```markdown
----
-slack_channel: "#c-myproject"
-taiga_board: "myproject"
-github_repo: "Cooperation-org/myproject"
----
-
-# My Project
-
-Human-readable description...
-```
-
-Option B: **Separate config file** per project
-
-```
-projects/SomeProject/
-├── MAIN.md          # human-readable, freeform
-├── config.yaml      # machine-readable, structured
-└── CLAUDE.md
-```
-
-Option C: **Central registry** (single file, all projects)
-
-```yaml
-# projects/registry.yaml
-projects:
-  myproject:
-    slack: "#c-myproject"
-    taiga: "myproject"
-    github: "Cooperation-org/myproject"
-```
-
-The projects repo remains the source of truth for *project configuration*. Hub reads it but doesn't write to it. Other tools (Claude Code, Cursor, human editors) can also read/modify it.
+No central registry - those just get out of date. MAIN.md is the config.
 
 ## Expanded slack-helper Structure
 
 ```
-hub/                              # renamed from slack-helper
+amebo/                            # renamed from slack-helper
 ├── backend/
 │   ├── src/
 │   │   ├── adapters/             # NEW - read from sources of truth
@@ -142,40 +112,40 @@ We add:
 1. **Taiga adapter** - read/write tasks, aggregate earnings
 2. **GitHub adapter** - read/write issues and PRs
 3. **projects repo adapter** - read config, write updates
-4. **Bots** - proactive nudges, standup collection, onboarding guidance
+4. **Bots** - proactive nudges, onboarding guidance
 
 ## Implementation Phases
 
-### Phase 1: Taiga Integration
+### Phase 1: Projects Repo + Slack
+- Parse MAIN.md to understand projects
+- Know which Slack channel per project
+- Be present and helpful in those channels
+- This alone is already pretty hard
+
+### Phase 2: Taiga Integration
 - Read tasks and user stories
 - Aggregate earnings/tokens per person
-- Report on project progress
+- Write tasks, update status
 
-### Phase 2: GitHub Integration
+### Phase 3: Bots
+- Nudge bot (blocked tasks, stale items)
+- Onboard bot (guide interns - maybe just reads the interns project?)
+- No standup bot - humans post standups, bots collecting them is annoying
+
+### Phase 4: GitHub Integration
 - Read issues and PRs
 - Post comments, create issues
 - Track stale PRs
 
-### Phase 3: Projects Repo Integration
-- Parse project config (however we decide to structure it)
-- Know which Slack/Taiga/GitHub to use per project
-- Maybe write updates to goals/docs
-
-### Phase 4: Bots
-- Nudge bot (blocked tasks, stale PRs)
-- Standup bot (collect/summarize)
-- Onboard bot (guide interns through tasks)
-
 ## Future Possibilities
 
-- **Event bus** - if we need loose coupling between adapters/bots
-- **ATProto integration** - decentralized social, Bluesky
+- **ATProto as event bus** - custom lexicons, team-to-team communication via PDS
 - **More chat adapters** - Discord, Telegram, SMS
 - **Dashboards** - the frontend/ directory is already there
 
 ## Secrets Management
 
-Hub needs credentials for Slack, Taiga, GitHub, etc. If compromised, all are exposed.
+Amebo needs credentials for Slack, Taiga, GitHub, etc. If compromised, all are exposed.
 
 Keep it simple:
 - Env file for dev
