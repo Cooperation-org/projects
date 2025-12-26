@@ -24,7 +24,7 @@
 - 🍕 [toolkit](projects/Nebula/toolkit/initial-thoughts.md)
 
 ### Past Projects
-*(🏆 = can show to clients and/or build on)*
+*(can show to clients and/or build on)*
 
 - 🏆 anoncreds - Contributions to [ACA-Py](https://github.com/hyperledger/aries-cloudagent-python)
 - 🏆 [allskillscount](https://allskillscount.org) - Skills recognition platform
