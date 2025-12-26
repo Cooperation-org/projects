@@ -30,6 +30,7 @@
 
 - 🏆 anoncreds - Contributions to [ACA-Py](https://github.com/hyperledger/aries-cloudagent-python)
 - 🏆 [allskillscount](https://allskillscount.org) - Skills recognition platform
+- ⟠ [linked-trust-impact-eval](https://github.com/Cooperation-org/linked-trust-impact-eval) - Token drop via Bacalhau based on peer-reviewed tasks
 
 ---
 
