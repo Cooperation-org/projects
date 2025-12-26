@@ -14,7 +14,7 @@
 - 🙋 [onboarding](projects/Current/onboarding/MAIN.md) - Intern onboarding program
 - ＄ [skills-aware](projects/Current/skills-aware/MAIN.md) - Open Badges v3 endorsement system
 - ＄ [streetwell](projects/Current/streetwell/MAIN.md) - Financial management for construction/property
-- ＄ [tru-net](projects/Current/tru-net/MAIN.md) - Tru.net
+- ＄ [Tru.net](projects/Current/tru-net/MAIN.md) - Tru.net group spaces with identity
 
 #### Ecosystem
 - 🧩 [certify](projects/Current/certify/MAIN.md) - Volunteer recognition badge platform
