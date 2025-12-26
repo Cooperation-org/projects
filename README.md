@@ -18,7 +18,9 @@
 
 #### Ecosystem
 - 🧩 [certify](projects/Current/certify/MAIN.md) - Volunteer recognition badge platform
+- 🧩 [claim-lexicon](projects/Current/claim-lexicon/MAIN.md) - ATProto lexicon for verifiable claims
 - 🧩 [linked-claims-extractor](projects/Current/linked-claims-extractor/MAIN.md) - AI claim extraction from PDFs/text
+- 🧩 [linked-claims-sdk](projects/Current/linked-claims-sdk/MAIN.md) - Core TypeScript SDK for LinkedClaims
 - 🧩 [linkedcreds](projects/Current/linkedcreds/MAIN.md) - Resume/credential authoring with verifiable claims
 - ⏸️ [talent](projects/Current/talent/MAIN.md) - Professional credential verification
 
