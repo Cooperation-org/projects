@@ -153,6 +153,13 @@ Keep it simple:
 - Use minimal scopes on all tokens
 - Consider: should this run on its own isolated server?
 
+## MAIN.md Link Maintenance
+
+Links in MAIN.md files will rot over time. Amebo should periodically:
+- Check links in MAIN.md files for validity (404s, redirects)
+- Notify maintainers in their project's Slack channel when links need attention
+- This is a natural fit for the nudge bot - just another type of staleness to detect
+
 ## Open Questions
 
 1. How to structure project config in projects repo? (YAML frontmatter, separate file, central registry?)

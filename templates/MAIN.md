@@ -10,7 +10,7 @@ Brief human readable summary - what is this about?
 | Item | Link |
 |------|------|
 | Proposal | [link to accepted proposal or description] |
-| Taiga board | [create at taiga.whatscookin.us if not exist] |
+| Task Board | [Taiga or GitHub Projects] |
 | Repo(s) | [github or gitlab repos] |
 | DevOps | [link to server and vault keys] |
 | Drive Folder | [under active projects for current year] |
@@ -28,3 +28,15 @@ Brief human readable summary - what is this about?
 Technical links, videos, how to get ramped up on the core technology and concepts.
 
 Do not put next steps here - those go on the taiga/github project board.
+
+---
+
+## Project Notes (optional)
+
+*Open section - project lead can add whatever is useful here: additional links, context, meeting notes, etc.*
+
+---
+
+## Historical (optional)
+
+*Old goals, outdated plans, previous phases - preserved for context but no longer current.*
