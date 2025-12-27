@@ -1,6 +1,6 @@
 # [Mini Project Name]
 
-_For Mini-projects and experiments, usually internal_
+<code style="color : teal">_For Mini-projects and experiments, usually internal_</code>
 
 _COPY this to projects/experiments folder under YOUR projects name_
 
