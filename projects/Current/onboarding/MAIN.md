@@ -9,7 +9,7 @@ Build a structured onboarding program for interns using GitHub Projects and issu
 
 | Item | Link |
 |------|------|
-| GitHub Repo | TBD - to be created at Cooperation-org/intern-onboarding |
+| GitHub Repo | https://github.com/Cooperation-org/onboarding |
 | Taiga | N/A - using GitHub for this project |
 | LinkedTrust | https://linkedtrust.us |
 | LinkedCreds | https://linkedcreds.com |
