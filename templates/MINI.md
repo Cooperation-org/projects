@@ -1,6 +1,7 @@
 # [Mini Project Name]
 
 _For Mini-projects and experiments, usually internal_
+
 _COPY this to projects/experiments folder under YOUR projects name_
 
 Motivation: [why did we want to do this project?]
